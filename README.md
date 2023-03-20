@@ -5,6 +5,6 @@ This project started as an idea in January 2023 as a fun and engaging way of gai
 
 The game is a demonstration of my C# coding ability and "Behind The Silicon Veil" will now feature similar things from this test.
 
-There are the full game files in the "Under-The-Veil-Unity" folder and there are the C# and art files under the "Raw-Files" folder.
+This project is licensed under the terms of the MIT license.
 
--- Published 18th March 2023.
+-- 20th March 2023.
