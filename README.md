@@ -5,6 +5,4 @@ This project started as an idea in January 2023 as a fun and engaging way of gai
 
 The game is a demonstration of my C# coding ability and "Behind The Silicon Veil" will now feature similar things from this test.
 
-This project is licensed under the terms of the MIT license.
-
 -- 20th March 2023.
